@@ -11,7 +11,7 @@ Therefore to play along it assumes that you ....
 3. then set up the [speckle-py](https://speckle.guide/dev/python.html) working folder (I know, python again, but we really like it!)
 4. cool, now follow the [tutorials](https://speckle.guide/dev/py-sample.html) to start doing some automation on the speckle streams.
 
-## Ok cool, so now the IFCJSON bit
+## Ok cool, so now the IFC bit
 
 We are thinking about this is in the following ways and these experiments are documented here.
 
